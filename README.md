@@ -1,3 +1,4 @@
+
 # Job Application Automation Framework
 
 A robust, automated framework designed to streamline the mass job application process. This tool allows candidates to seamlessly send customized emails with their resumes to multiple recruiters at once, saving time and significantly increasing outreach efficiency.
@@ -24,6 +25,7 @@ Before using this framework, ensure you have the following setup:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AutomationWithPiyushhh/job-application-automation-framework.git](https://github.com/AutomationWithPiyushhh/job-application-automation-framework.git)
+
 
 2. **Navigate to the project directory:**
 ```bash
@@ -63,4 +65,3 @@ Contributions, issues, and feature requests are highly encouraged! Feel free to 
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
-```
